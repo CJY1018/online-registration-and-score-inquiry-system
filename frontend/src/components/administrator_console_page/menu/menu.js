@@ -1,0 +1,6 @@
+export {default as ExamArrangement} from './ExamArrangement.vue'
+export {default as ExamInformation} from './ExamInformation.vue'
+export {default as RegistrationInformation} from './RegistrationInformation.vue'
+export {default as ScoreAnalysis} from './ScoreAnalysis.vue'
+export {default as ScoreEntry} from './ScoreEntry.vue'
+export {default as OtherOperations} from './OtherOperations.vue'
